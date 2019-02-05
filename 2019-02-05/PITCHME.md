@@ -27,20 +27,26 @@
 
 +++
 
+#### XCOV importance?
+
 ![xcov fig](2019-02-05/assets/img/unit_fve_waterfall.png)
 
 
 ---
-
-#### How important is forcing orthoganality via XCov?
+#### Training history
 
 ![xcov_train_g_fig](2019-02-05/assets/img/xcov_train_g_loss.png)
 
 ![xcov acc fig](2019-02-05/assets/img/xcov_train_acc.png)
 
 +++
+#### 3D Mutual Info by max translation
 
 ![xcov I fig](2019-02-05/assets/img/xcov_mutual_info.png)
+
++++
+#### class mutual info dist by max translation
+
 ![xcov dist fig](2019-02-05/assets/img/class_xcov_dist.png)
 
 +++
