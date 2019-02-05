@@ -23,13 +23,12 @@
 
 ### Vision Autoencoder
 
-[](https://raw.githubusercontent.com/elijahc/tensorflow-generative-model-collections/master/assets/etc/S-AE_structures.png)
-
-- [X] [VAE_story](https://gist.github.com/elijahc/c7b2c8a9ef03148b3b4b8d2bac32c7c7#file-vae_story-ipynb)
+![model architecture](https://raw.githubusercontent.com/elijahc/tensorflow-generative-model-collections/master/assets/etc/S-AE_structures.png)
 
 +++
 
-- [x] How important is forcing orthoganality via XCov? Is it more or less important for different image variations
+- #### How important is forcing orthoganality via XCov?
+![xcov fig](assets/img/xcov_mutual_info.png)
 - [ ] embed identity into word2vec instead of oh_vec
   - [Label-Embedding for Image Classification](https://arxiv.org/pdf/1503.08677.pdf)
   - [Image classification w/ Fisher Vector](https://hal.inria.fr/hal-00830491v2/document)
