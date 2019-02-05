@@ -37,7 +37,7 @@
 
 #### XCOV importance?
 
-
+![xcov fig](2019-02-05/assets/img/translocate_03.png)
 
 ---
 #### Training history
@@ -52,6 +52,7 @@
 ![xcov I fig](2019-02-05/assets/img/xcov_mutual_info.png)
 
 +++
+
 #### class mutual info dist by max translation
 
 ![xcov dist fig](2019-02-05/assets/img/class_xcov_dist.png)
@@ -61,6 +62,8 @@
 ### Vision Autoencoder
 
 ![model architecture](https://raw.githubusercontent.com/elijahc/tensorflow-generative-model-collections/master/assets/etc/S-AE_structures.png)
+
++++
 
 - [ ] embed identity into word2vec instead of oh_vec
   - [Label-Embedding for Image Classification](https://arxiv.org/pdf/1503.08677.pdf)
