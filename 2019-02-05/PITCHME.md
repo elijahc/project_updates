@@ -27,8 +27,25 @@
 
 +++
 
-- #### How important is forcing orthoganality via XCov?
-![xcov fig](assets/img/xcov_mutual_info.png)
+![xcov fig](2019-02-05/assets/img/unit_fve_waterfall.png)
+
+
+---
+
+#### How important is forcing orthoganality via XCov?
+
+![xcov_train_g_fig](2019-02-05/assets/img/xcov_train_g_loss.png)
+
+![xcov acc fig](2019-02-05/assets/img/xcov_train_acc.png)
+
++++
+
+![xcov I fig](2019-02-05/assets/img/xcov_mutual_info.png)
+![xcov dist fig](2019-02-05/assets/img/class_xcov_dist.png)
+
++++
+
+
 - [ ] embed identity into word2vec instead of oh_vec
   - [Label-Embedding for Image Classification](https://arxiv.org/pdf/1503.08677.pdf)
   - [Image classification w/ Fisher Vector](https://hal.inria.fr/hal-00830491v2/document)
